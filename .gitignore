@@ -1,0 +1,5 @@
+figma_code/
+figma_images/
+.env
+environments/
+__pycache__
