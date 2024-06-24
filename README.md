@@ -58,3 +58,4 @@ run lol, but they're basically the same with only some super minor differences*.
 ## Generation Process
 You can view the video either [here](examples/code_generation.mp4) or *below*:
 <video src="examples/code_generation.mp4" controls></video>
+*NOTE: this is at 2x speed*.
