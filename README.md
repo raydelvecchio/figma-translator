@@ -50,4 +50,10 @@ This image shows an example Figma design for a waitlist signup page.
 
 This image demonstrates the React UI component generated from the Figma design above. As you can see, the translator accurately converts the visual design into functional React code, including layout, styling, and interactive elements. ***It did this zero-shot, with no extra prompting or agentic loops required***.
 
-You can see the [code generated to create this](examples/waitlist_code.js).
+You can see the [code generated to create it](examples/waitlist_code.js). *NOTE: the code is from a previous run of this, I accidentally deleted the demo
+run lol, but they're basically the same with only some super minor differences*.
+
+## Generation Process
+
+## Generation Process
+<video src="examples/generation_video.mov" controls></video>
