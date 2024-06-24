@@ -43,10 +43,6 @@ class FigmaTranslator:
         for _, step_function in tqdm(steps, desc="Setting up test environment"):
             step_function()
 
-        print("Project environment setup complete!\n")
-        print(f"To start the development server, run:")
-        print(f"cd {Config.ENVIRONMENTS_FOLDER}/{self.project_name}")
-        print("yarn start")
         print("\nYOUR PROJECT IS BEING GENERATED SHORTLY...\n")
 
     def _create_environments_folder(self):
