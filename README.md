@@ -12,6 +12,8 @@ In ~1.25 minutes, Figma Translator generates a React frontend for your design al
 * The translator has access to Javascript, React, Bootstrap, Tailwind, and React Icons to complete the code
 * Images and dedicated code files will generate in their respective folders for you to monitor it's progress
 * You can toggle the creation of a test environment and only output the code files and images if you'd like as well
+* Output code is inherently modular, with clean component and export syntax
+* Generated code is well-documented, *complete with TODOs that require external connections, specific images / uploads, or other interactions*!
 
 # Example
 ```python
