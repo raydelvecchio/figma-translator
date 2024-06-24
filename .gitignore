@@ -3,3 +3,4 @@ figma_images/
 .env
 environments/
 __pycache__
+venv
