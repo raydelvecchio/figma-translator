@@ -4,6 +4,8 @@ Convert any Figma file into a real, working, editable React development environm
 # About
 Welcome! If you're here you're probably a terrible frontend engineer, just like me. Why not automate this instead?
 
+It's not perfect, but at least it'll give you a starting point to style around and work with.
+
 In ~1.25 minutes, Figma Translator generates a React frontend for your design all *zero-shot*, including a Yarn environment to build on top of after.
 
 ## Details
